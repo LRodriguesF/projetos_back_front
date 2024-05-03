@@ -62,7 +62,12 @@ Este cenário testa a funcionalidade de busca de CEP no serviço do ViaCEP.
 1. Clone este repositório: `git clone https://github.com/LRodriguesF/projetos_back_front.git`
 2. Instale as dependências: `npm install`
 3. Execute os testes: `npm run cypress:open`
+4. 
+## Versões do Cypress e Cucumber:
 
+- Cypress: v7.7.0
+- Cypress Cucumber Preprocessor: v4.3.1
+  
 ## Estrutura do Projeto
 
 - `cypress`: Contém os arquivos de configuração e os testes escritos com Cypress e Cucumber.
